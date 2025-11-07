@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Adwitya-OOI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mechatronic Home Labbing And coding
+- 🌱 I’m currently learning Electronics
+- 💞️ I’m looking to collaborate on Hardware and Low Level Projects
+- 📫 How to reach me 
 - 😄 Pronouns: Male
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Almost all of the Universe is missing.
+
 
 <!---
 Adwitya-OOI/Adwitya-OOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
